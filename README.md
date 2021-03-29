@@ -1,7 +1,7 @@
 # AlgoritmiDiOrdinamento
 1 Quicksort
-L'algoritmo di ordinamento Quicksort 
-  Descrizione dell'algoritmo: un approccio Divide et impera 
+L'algoritmo di ordinamento Quicksort \n
+  Descrizione dell'algoritmo: un approccio Divide et impera \n
   Ordinamento sul posto 
   Codice in Java 
     La funzione Partition e la sua correttezza
